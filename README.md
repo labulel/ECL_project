@@ -3,7 +3,7 @@
 ## Database Description
 Our Tweets database contains Trump tweets as well as major events and holidays within the US that can be analyzed to determine: 
 1) Trump's Most active time of the day on Twitter
-2) Tweet volume around major US events/holidays
+2) Tweet volume around major US events and holidays
 3) Average number of tweets per period of times
 4) Most liked and favourited tweets
 
